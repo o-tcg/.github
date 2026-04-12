@@ -25,5 +25,3 @@ jobs:
           plugin_contributors: yes
           plugin_contributors_contributions: yes
           plugin_languages_indepth: yes
-          commits_authoring: firstname lastname, username, username@users.noreply.github.com
-          plugin_calendar: yes
